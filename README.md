@@ -35,7 +35,7 @@ The Pizza Store wants to create an **annual sales report** to better understand 
    - Highlighted top-performing pizzas and areas for improvement to maximize sales.
   
 ## SQL Querries used:
-<a href="https://github.com/dheivii/pizza_dashboard/blob/main/PIZZA%20SALES%20SQL%20QUERIES(powerBi).docx">SQL Query</a>
+- <a href="https://github.com/dheivii/pizza_dashboard/blob/main/PIZZA%20SALES%20SQL%20QUERIES(powerBi).docx">SQL Query</a>
 
 ## 📊 Dashboard
 ![Screenshot (25)](https://github.com/user-attachments/assets/98539d49-2967-48ac-9a46-bffbd261f240)
