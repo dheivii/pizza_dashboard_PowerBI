@@ -24,7 +24,7 @@ The Pizza Store wants to create an **annual sales report** to better understand 
   - Monthly and weekend performance.
   - <a href="https://github.com/dheivii/pizza_dashboard/blob/main/pizza_dashboard(powerBi).pdf">View Dashboard</a>
 
-  ## 🛠️ Process Steps
+## 🛠️ Process Steps
 1. **Data Cleaning**:
    - Removed duplicates, formatted columns, and ensured data consistency.
 2. **Exploratory Data Analysis (EDA)**:
