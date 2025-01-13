@@ -38,7 +38,7 @@ The Pizza Store wants to create an **annual sales report** to better understand 
 ![Screenshot (25)](https://github.com/user-attachments/assets/98539d49-2967-48ac-9a46-bffbd261f240)
 ![Screenshot (26)](https://github.com/user-attachments/assets/cc66fbdc-82d6-4e7b-a2ac-e584a45c42ee)
 
-## Final Conclusion
+## Final Conclusion:
 - The Pizza Sales Report Dashboard provides valuable insights into sales performance, identifying top-selling pizzas, peak order periods, and revenue contributors. It helps the store owner understand customer preferences, optimize inventory, and improve sales strategies for future growth. The analysis supports data-driven decisions to enhance profitability and customer satisfaction.
 
 
