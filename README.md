@@ -33,3 +33,9 @@ The Pizza Store wants to create an **annual sales report** to better understand 
    - Created an interactive dashboard using Excel tools like slicers, charts, and conditional formatting.
 4. **Insights & Recommendations**:
    - Highlighted top-performing pizzas and areas for improvement to maximize sales.
+
+## Dashboard
+![Screenshot (25)](https://github.com/user-attachments/assets/98539d49-2967-48ac-9a46-bffbd261f240)
+![Screenshot (26)](https://github.com/user-attachments/assets/cc66fbdc-82d6-4e7b-a2ac-e584a45c42ee)
+
+
