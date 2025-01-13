@@ -1,2 +1,3 @@
-# pizza_dashboard
-I developed a comprehensive project in Excel,creating multiple dashboards and tables to analyze the data. This process involved serveral stages,inculding data preprocessing,data cleaning and data visualization.
+Pizza sales report-Data Analysis(Interactive Dashboard creation using MS Excel)
+Project Objective
+The Pizza store wants to create an annual sales report.So that, the owner of the pizza store can understand their customers and grow more sales in future years.
