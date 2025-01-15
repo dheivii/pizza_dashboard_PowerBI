@@ -1,4 +1,4 @@
-# 🍕 Pizza sales report-Data Analysis(Interactive Dashboard creation using MS Excel)
+# 🍕 Pizza sales report-Data Analysis(Interactive Dashboard)
 ## 📋 Project Objective:
 The Pizza Store wants to create an **annual sales report** to better understand their customers and boost future sales. This dashboard provides key insights into sales performance, pizza categories, and customer preferences.
 
